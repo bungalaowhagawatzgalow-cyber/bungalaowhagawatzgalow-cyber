@@ -2,23 +2,24 @@
 
 💻 Aspiring Software Developer | 🇩🇪 Planning to work in Germany
 
-I'm learning software development by building applications, experimenting with different languages, and exploring game development. Currently working mostly with Python, learning C# along the way, and making games with Godot.
-
+I'm learning software development by building applications, experimenting with different programming languages, and exploring game development. I mainly work with Python, have some experience with Lua and Roblox Studio, am learning C#, and build games with Godot.
 ## 🛠️ TECH STACK
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B8860B?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=sharp&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-00008B?style=flat&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=luau&logoColor=white)
 
 **Tools & Technologies**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-64FFDA?style=flat&logo=pycharm&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-21262D?style=flat&logo=linux&logoColor=white)
 
 ## 🚀 FEATURED PROJECTS
 
