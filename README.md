@@ -7,11 +7,11 @@ I'm learning software development by building applications, experimenting with d
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-B8860B?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=sharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-00008B?style=flat&logo=lua&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=luau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B8860B?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-00008B?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white)
 
 **Tools & Technologies**
 
